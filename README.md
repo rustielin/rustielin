@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I'm Rustie 👋
+
+🔭 I'm a production engineer at [Aptos Labs](https://aptoslabs.com). I work on large-scale blockchain testing infrastructure, o11y, deployments, and devinfra.
+
+💬 You might be looking for some links:
+* [Github](https://github.com/rustielin)
+* [LinkedIn](https://www.linkedin.com/in/rustielin/)
+* [Twitter](https://twitter.com/rustielin)
 
 <!--
 **rustielin/rustielin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
