@@ -1,6 +1,6 @@
 ### Hi I'm Rustie 👋
 
-🔭 I'm a production engineer at [Aptos Labs](https://aptoslabs.com). I work on large-scale blockchain testing infrastructure, o11y, deployments, and devinfra.
+🔭 I'm a production engineer at [Aptos Labs](https://aptoslabs.com). I work on large-scale blockchain performance and chaos testing infrastructure, o11y, deployments, and devinfra.
 
 💬 You might be looking for some links:
 * [Github](https://github.com/rustielin)
