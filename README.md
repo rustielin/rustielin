@@ -1,6 +1,6 @@
 ### Hi I'm Rustie 👋
 
-🔭 I'm a production engineer at [Aptos Labs](https://aptoslabs.com). I specialize in large-scale blockchain performance and chaos testing infrastructure, o11y, deployments, and DevInfra / release. 
+🔭 I'm a production engineer at [Prime Intellect](https://primeintellect.ai). Previously, I was the head of production engineering at [Aptos Labs](https://aptoslabs.com), where I specialized in large-scale blockchain performance and chaos testing infrastructure, o11y, deployments, and DevInfra / release. 
 
 💬 You might be looking for some links:
 * [Github](https://github.com/rustielin)
